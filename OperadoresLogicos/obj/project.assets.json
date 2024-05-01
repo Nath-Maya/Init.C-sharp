@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/ConsoleApp1/AreaRectangulo.csproj",
-      "projectName": "AreaRectangulo",
-      "projectPath": "/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/ConsoleApp1/AreaRectangulo.csproj",
+      "projectUniqueName": "/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/OperadoresLogicos/OperadoresLogicos.csproj",
+      "projectName": "OperadoresLogicos",
+      "projectPath": "/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/OperadoresLogicos/OperadoresLogicos.csproj",
       "packagesPath": "/Users/nathm./.nuget/packages/",
-      "outputPath": "/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/ConsoleApp1/obj/",
+      "outputPath": "/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/OperadoresLogicos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nathm./.nuget/NuGet/NuGet.Config"
