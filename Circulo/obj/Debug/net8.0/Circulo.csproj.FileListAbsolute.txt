@@ -1,0 +1,15 @@
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/bin/Debug/net8.0/Circulo
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/bin/Debug/net8.0/Circulo.deps.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/bin/Debug/net8.0/Circulo.runtimeconfig.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/bin/Debug/net8.0/Circulo.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/bin/Debug/net8.0/Circulo.pdb
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.AssemblyInfoInputs.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.AssemblyInfo.cs
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.csproj.CoreCompileInputs.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.sourcelink.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/refint/Circulo.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.pdb
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/Circulo.genruntimeconfig.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Circulo/obj/Debug/net8.0/ref/Circulo.dll
