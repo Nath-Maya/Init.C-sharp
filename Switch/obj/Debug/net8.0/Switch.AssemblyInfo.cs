@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("OperadoresRelacionales")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd64d49f4295c9d12f180465932f21fd50f53536")]
-[assembly: System.Reflection.AssemblyProductAttribute("OperadoresRelacionales")]
-[assembly: System.Reflection.AssemblyTitleAttribute("OperadoresRelacionales")]
+[assembly: System.Reflection.AssemblyProductAttribute("Switch")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

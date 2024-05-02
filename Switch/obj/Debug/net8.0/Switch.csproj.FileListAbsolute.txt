@@ -1,0 +1,15 @@
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/bin/Debug/net8.0/Switch
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/bin/Debug/net8.0/Switch.deps.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/bin/Debug/net8.0/Switch.runtimeconfig.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/bin/Debug/net8.0/Switch.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/bin/Debug/net8.0/Switch.pdb
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.AssemblyInfoInputs.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.AssemblyInfo.cs
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.csproj.CoreCompileInputs.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.sourcelink.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/refint/Switch.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.pdb
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/Switch.genruntimeconfig.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/Switch/obj/Debug/net8.0/ref/Switch.dll

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionales", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If", "If\If.csproj", "{B1173BF2-AC8A-43A9-9338-DA3F6F24260A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{BF3ED69D-F829-4C0C-8921-F13B7A1D0D28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B1173BF2-AC8A-43A9-9338-DA3F6F24260A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1173BF2-AC8A-43A9-9338-DA3F6F24260A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1173BF2-AC8A-43A9-9338-DA3F6F24260A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3ED69D-F829-4C0C-8921-F13B7A1D0D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3ED69D-F829-4C0C-8921-F13B7A1D0D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3ED69D-F829-4C0C-8921-F13B7A1D0D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3ED69D-F829-4C0C-8921-F13B7A1D0D28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
