@@ -1,0 +1,15 @@
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.AssemblyInfoInputs.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.AssemblyInfo.cs
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.csproj.CoreCompileInputs.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.sourcelink.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/bin/Debug/net8.0/If
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/bin/Debug/net8.0/If.deps.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/bin/Debug/net8.0/If.runtimeconfig.json
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/bin/Debug/net8.0/If.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/bin/Debug/net8.0/If.pdb
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/refint/If.dll
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.pdb
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/If.genruntimeconfig.cache
+/Users/nathm./Desktop/platzi/desarrollo-web/C#/Init.C-/If/obj/Debug/net8.0/ref/If.dll
